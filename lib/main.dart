@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 // An app to show off my skills
+// App connected to Github
 
 void main() {
   runApp(
