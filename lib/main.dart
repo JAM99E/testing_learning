@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// An app to show off my skills
+
 void main() {
   runApp(
     MaterialApp(
